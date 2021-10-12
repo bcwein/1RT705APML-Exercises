@@ -1,0 +1,12 @@
+name: APML
+dependencies:
+  - numpy
+  - python
+  - ipykernel
+  - matplotlib
+  - scipy
+  - pycodestyle
+  - pydocstyle
+  - nbconvert
+  - jupyter
+  - pandoc
